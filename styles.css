@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    padding: 30px;
+}
+
+.link-header {
+    margin-right: 36px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233D;
+    text-decoration: none;
+}
+
+.header-button {
+    width: 124px;
+    height: 51px;
+    background: #665AE1;
+    border: 1px solid #665AE1;
+    border-radius: 20.5px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+.main__img {
+    margin-top: 50px;
+    margin-left: 121px;
+    display: inline-block;
+    width: 500px;
+}
+
+.main-section {
+    display: inline-block;
+    margin-left: 84px;
+    margin-top: 50px;
+    width: 493px;
+    position: absolute;
+
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+
+}
+
+.about {
+    font-weight: 500;
+    font-size: 58px;
+    color: #515151;
+}
+
+p {
+    margin-top: 47px;
+    margin-bottom: 55px;
+    text-align: justify;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+}
+
+.button-section {
+    width: 239px;
+    height: 64px;
+    background: #ADFF00;
+    border: 1px solid #ADFF00;
+    color: #000;
+    border-radius: 20.5px;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 820px) {
+    .header {
+        padding: 0px;
+        display: none;
+    }
+
+    .main{
+        height: 100vh;
+    }
+
+    .main__img {
+        margin: 0 auto;
+        width: 300px;
+        height: 60%;
+        padding: 142px 22px 0 14px;
+        display: block;
+
+    }
+
+    .main-section {
+        display: block;
+        margin: auto;
+        width: 100%;
+        height: 30%;
+        text-align: center;
+        margin-top: 24px;
+    }
+
+    h1 {
+        font-weight: 900;
+        font-size: 50px;
+        line-height: 61px;
+        margin-bottom: 7px;
+    }
+
+    .about {
+        display: block;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 37px;
+        text-align: center;
+        margin-bottom: 17px;
+    }
+
+    p {
+        display: none;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .button-section{
+        border-radius: 30.5px;
+        width: 239px;
+        height: 64px;
+    }
+}
