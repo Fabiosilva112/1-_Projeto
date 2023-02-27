@@ -9,4 +9,13 @@ Proejto todo responsivo:
 
 # Estilo em Mobile
 
-<img src="https://raw.githubusercontent.com/Fabiosilva112/1-_Projeto/b1daabc41f765cba2e82863c1627e26ec0d8b77f/img/celular_tela_feito.svg" width="300px"/>
+<img src="https://raw.githubusercontent.com/Fabiosilva112/1-_Projeto/1bbdd2fbb95fb119475a75212ca36637d08c4aac/img/celular2_feito.svg" width="200px"/>
+
+# Estilo em Desktop
+
+<img src="https://raw.githubusercontent.com/Fabiosilva112/1-_Projeto/1bbdd2fbb95fb119475a75212ca36637d08c4aac/img/desktoop_feito.svg" width="450px"/>
+
+#
+
+Nesse proejto pude entender melhor os conceitos de position (relative e absolute) assim como também pude treinar um pouco meus conhecimmentos de responsividade.
+
