@@ -7,13 +7,19 @@ Projeto feito para testar meus conhecimentos em:
 
 Proejto todo responsivo:
 
-# Estilo em Mobile
+<h1 align="center">Estilo em Mobile</h1>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/Fabiosilva112/1-_Projeto/1bbdd2fbb95fb119475a75212ca36637d08c4aac/img/celular2_feito.svg" width="200px"/>
+</p>
 
-# Estilo em Desktop
 
-<img src="https://raw.githubusercontent.com/Fabiosilva112/1-_Projeto/1bbdd2fbb95fb119475a75212ca36637d08c4aac/img/desktoop_feito.svg" width="450px"/>
+<h1 align="center">Estilo em Desktop</h2>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Fabiosilva112/1-_Projeto/1bbdd2fbb95fb119475a75212ca36637d08c4aac/img/desktoop_feito.svg" width="650px"/>
+</p>
 
 #
 
